@@ -4,9 +4,13 @@
 </head>
 <body>
 
-    <h1>أهلاً بك في WATSpace.Digital</h1>
-    <h2>Digital marketer &amp; creative designer specializing in social media, e-commerce, and educational kids content with original AI-powered. WAT Space your space.</h2>
-    <p>Loading,,, The Power of AI</p>
+    <h1>الموقع قيد الصيانة The site Is Under Maintenance</h1>
+    <p>شكراً لزيارتكم نحن نعمل بجد على إعداد تجربة فريدة.</p>
+        <p>Loading,,, The Power of AI</p>
+
+
+    <a href="gemini.html">اذهب إلى صفحة الذكاء الاصطناعي</a>
 
 </body>
 </html>
+
